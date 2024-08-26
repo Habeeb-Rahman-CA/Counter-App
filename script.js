@@ -25,8 +25,6 @@ document.querySelector(".btn-danger").addEventListener("click", function () {
 
 
 
-
-
 // // Another method to create Count application
 
 // num = 0;
